@@ -18,8 +18,8 @@ It focuses on providing **real-time user interactions** and **seamless data proc
 - **Hosting:** InfinityFree  
 - **Domain:** [lovestoblog.com](https://lumeaonline.lovestoblog.com) (subdomain)  
 
-## 🌐 Live Demo
-🔗 [Visit Lumea Online](www.lumeaonline.lovestoblog.com)  
+## 
+🌐 Live Demo: [www.lumeaonline.lovestoblog.com](https://www.lumeaonline.lovestoblog.com)
 
 ---
 
