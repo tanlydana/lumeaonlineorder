@@ -9,11 +9,11 @@ class Database{
             $password = '';
             $database = 'online-order-project';
         } else {
-            // Production settings (InfinityFree)
-            $host = 'sqlXXX.epizy.com'; // You'll get this from InfinityFree
-            $username = 'epiz_XXXXXX';   // Your InfinityFree DB username
-            $password = 'your_password'; // Your InfinityFree DB password
-            $database = 'epiz_XXXXXX_online-order-project'; // InfinityFree DB name
+            // Production settings (InfinityFree) - USING YOUR REAL DETAILS
+            $host = 'sql100.infinityfree.com';
+            $username = 'if0_40029492';
+            $password = 'iOF7HeXC8K'; // Your MySQL password
+            $database = 'if0_40029492_online_order'; // Your actual database name
         }
         
         $conn = new mysqli($host, $username, $password, $database);
