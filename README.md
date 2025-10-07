@@ -2,7 +2,6 @@
 
 ## 📖 Project Overview
 **Lumea Online** is a dynamic school project web application built with **PHP** and **Ajax**.  
-It focuses on providing **real-time user interactions** and **seamless data processing** without page reloads, making the user experience smooth and responsive.
 
 ## 🚀 Features
 - ⚡ **Real-time Data Processing** – Ajax-powered asynchronous operations  
