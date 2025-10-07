@@ -12,7 +12,7 @@
 ## 🛠️ Technology Stack
 - **Backend:** PHP  
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Ajax:** XMLHttpRequest / Fetch API  
+- **Ajax:** XMLHttpRequest
 - **Database:** MySQL  
 - **Hosting:** InfinityFree  
 - **Domain:** [www.lumeaonline.lovestoblog.com](http://www.lumeaonline.lovestoblog.com)  
